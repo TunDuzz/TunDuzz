@@ -16,20 +16,39 @@ I focus on designing **scalable, maintainable, and clean backend systems**, foll
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Tools & Practices
+### Tools & Infrastucture
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MinIO](https://img.shields.io/badge/MinIO-C72E49?style=for-the-badge&logo=minio&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-- Clean Architecture & Layered Architecture  
+- Clean Architecture & Modular Monolith
 - RESTful API Design  
 - Database Design & Optimization (SQL Server)  
-- Authentication & Authorization  
+- Authentication & Authorization (JWT, RBAC)
 - Version Control with Git  
 
 ---
 
 ## 🏗️ Selected Projects
+
+### 🎵 MusicStreamingApp
+🔗 https://github.com/TunDuzz/music-streaming-app  
+
+A comprehensive **full-stack music streaming platform** designed for high performance and scalability.
+
+**Tech Stack**
+- **Backend:** ASP.NET Core Web API (.NET 9), Entity Framework Core
+- **Frontend:** React 19, Vite, Tailwind CSS, Radix UI
+- **Infrastructure:** SQL Server, MinIO (Object Storage), Redis (Caching), Hangfire
+- **Architecture:** Modular Monolith, Clean Architecture
+
+**Key Features**
+- 🎧 Gapless audio streaming with optimized storage (MinIO)
+- 🔍 Smart search with history tracking & genre browsing
+- 🛡️ Role-based Admin Dashboard for content management
+- 📱 Modern, responsive Player UI with interactive controls
+
+---
 
 ### 🎥 VideoStreamCore  
 🔗 https://github.com/TunDuzz/VideoStreamCore  
@@ -47,31 +66,6 @@ A **high-performance video streaming backend API** built with **.NET 9**, follow
 - Automatic thumbnail generation
 - Scalable upload & streaming pipeline
 - Clear separation of Domain, Application, Infrastructure, and API layers
-
----
-
-### 🎵 Music Web Platform  
-An online music streaming backend system for music management and streaming.
-
-**Tech**
-- ASP.NET Core
-- SQL Server
-- HTML, CSS
-
-**Features**
-- Song, artist, and playlist management
-- User listening history tracking
-- Clean backend architecture
-
----
-
-### 🎮 Logic Games Collection  
-
-- **Caro Game (Gomoku)**  
-  Strategy board game implementing the **Minimax algorithm** for AI decision-making.
-
-- **Memory Card Game**  
-  Logic-based game focusing on data handling and state management.
 
 ---
 
