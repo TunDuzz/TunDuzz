@@ -25,6 +25,9 @@ I’m a Software Engineering student with a strong interest in Backend Developme
 ## 🏗️ Selected Projects
 
 ### 🎬 CineStream – Movie Streaming Platform
+
+CineStream is a movie streaming platform that allows users to browse movies, view actor information, and interact through comments. The system provides RESTful APIs and a web interface for exploring movie content.
+
 **[Repo Link](https://github.com/TunDuzz/cinestream)** 
 
 **Responsibilities:**
@@ -42,6 +45,9 @@ I’m a Software Engineering student with a strong interest in Backend Developme
 ---
 
 ### 🎵 MusicStream – Digital Audio Streaming Platform
+
+MusicStream is a digital audio streaming platform that allows users to explore songs, manage playlists, and discover music content. The system is designed with scalable APIs and efficient media management to support audio streaming and music catalog operations.
+
 **[Repo Link](https://github.com/TunDuzz/music-streaming-app)**
 
 **Responsibilities:**
